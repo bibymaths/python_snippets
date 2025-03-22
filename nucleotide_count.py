@@ -18,6 +18,6 @@ Total = A + G + C + T
 #checking for validity of code i.e. length must be equal to Total 
 if length == Total :
     print("\nAdenine is " +str(A))
-    print("\nCystosine is" +str(C))
+    print("\nCystosine is " +str(C))
     print("\nGuanine is " +str(G))
     print("\nThymine is " +str(T))
